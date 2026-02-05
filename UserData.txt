@@ -3,3 +3,5 @@ Get User Data
 
 Secure the data
 Password Protected
+
+Qr Code Identity
